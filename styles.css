@@ -1,0 +1,47 @@
+#int {
+  width:800px;
+  font-size: 20px;
+  padding: 10px;
+  display: block;
+  margin-left: 200px;
+
+}
+body{
+background-color: #02e1f459;
+  margin: 0px;
+  margin-top: 0px;
+  display:inline-block;
+}
+#head1{
+
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  height:100px;
+
+}
+#head{
+  background-color: #02e1f459;
+  padding-left: 450px;
+
+
+}
+#para{
+  background-color:#00ff567a; 
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  color:#111111;
+}
+#speed{
+  display:inline-block;
+  font-size: 25px;
+  margin-left: 250px;
+  margin-bottom: 50px;
+}
+#time{
+  display:inline-block;
+  font-size: 25px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+}
